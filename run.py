@@ -96,6 +96,8 @@ def main():
             continue
 
     pprint.pprint(resp)
+    #pprint.pprint(json.dumps(resp))
+    return json.dumps(resp)
 
 if __name__ == "__main__":
     main()
