@@ -1,4 +1,11 @@
 # test output
+
+import pytest
+
+# hard coded for tests
+start_date = '2020-01-12'
+end_date = '2020-01-19'
+
 def capital_case(x):
     return x.capitalize()
 
