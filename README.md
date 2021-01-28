@@ -21,7 +21,7 @@ On Linux:
 ```
 source venv/bin/activate
 ```
-To run tests
+To install requirements
 ```
 pip install -r requirements.txt
 ```
