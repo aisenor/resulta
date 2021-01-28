@@ -3,7 +3,7 @@ Amanda Isenor
 
 Assumptions:
 
-The teams rank and points are dymnamic and thus change in real time
+The teams rank and points are dymnamic and thus do not perfectly match the provided example
   
 To run:
 
