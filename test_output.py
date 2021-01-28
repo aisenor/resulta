@@ -1,12 +1,6 @@
 # test output
-
 import pytest
-import runpy
-import pathlib
-
-import run # module
-# from run import accept_input #function
-
+import run
 
 # test dates from given example
 # start_date = '2020-01-12'
