@@ -21,7 +21,7 @@ On Linux:
 ```
 source venv/bin/activate
 ```
-To install requirements
+To install requirements (Though they should already be satisfied in venv)
 ```
 pip install -r requirements.txt
 ```
