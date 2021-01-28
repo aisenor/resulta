@@ -6,6 +6,6 @@ Assumptions:
   
 To run:
   Navigate to the project folder
-  '''
+ ```
   python3 run.py
-  '''
+ ```
