@@ -11,7 +11,7 @@ To run:
 
 2. Navigate to the project folder
 
-3. Activate the virtual environment (This isn't entirely necessary but for consistency sake)
+3. Activate the virtual environment
 
 On windows:
 ```
@@ -21,7 +21,7 @@ On Linux:
 ```
 source venv/bin/activate
 ```
-To install requirements (Though they should already be satisfied in venv)
+To install requirements (If not in the virtual environment)
 ```
 pip install -r requirements.txt
 ```
