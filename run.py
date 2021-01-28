@@ -5,7 +5,7 @@ import datetime as dt
 
 format = '%Y-%m-%d'
 resp = []
-
+#
 # I extracted these three lines to allow the helper method to access
 # team_rankings_data instead of having it request and open every time
 team_rankings = "https://delivery.chalk247.com/team_rankings/NFL.json?api_key=74db8efa2a6db279393b433d97c2bc843f8e32b0"
