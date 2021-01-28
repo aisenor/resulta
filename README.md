@@ -4,6 +4,8 @@ Amanda Isenor
 Assumptions:
 
 The teams rank and points are dymnamic and thus do not perfectly match the provided example
+
+It is necessary to return the information in json however it is also printed to consolue for ease of viewing
   
 To run:
 
