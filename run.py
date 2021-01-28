@@ -58,12 +58,8 @@ def team_rank(id):
             }
 
 def main():
-    #start_date = accept_input("start date")
-    #end_date = accept_input("end date")
-
-    # hard coded for tests
-    start_date = '2020-01-12'
-    end_date = '2020-01-19'
+    start_date = accept_input("start date")
+    end_date = accept_input("end date")
 
     scoreboard = "https://delivery.chalk247.com/scoreboard/NFL/{}/{}.json?api_key=74db8efa2a6db279393b433d97c2bc843f8e32b0".format(start_date, end_date)
     url_scoreboard = urllib.request.urlopen(scoreboard)
